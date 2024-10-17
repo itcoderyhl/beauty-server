@@ -1,0 +1,2 @@
+# beauty-server
+1
